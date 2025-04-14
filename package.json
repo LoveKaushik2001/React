@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKaushik2001/React.git"
+  },
+  "keywords": [],
+  "author": "Love Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoveKaushik2001/React/issues"
+  },
+  "homepage": "https://github.com/LoveKaushik2001/React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 version",
+    "not dead",
+    "not < 2%",
+    "not ie <= 11"
+  ]
+}
